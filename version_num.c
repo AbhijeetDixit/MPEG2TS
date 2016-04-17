@@ -1,3 +1,4 @@
+/* This program changes the version number of PAT and PMT in a given TS file */
 #include <stdio.h>
 #include <errno.h>
 #include <string.h>
